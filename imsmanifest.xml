@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5soZE2YjQM7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Articulating Emotions</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Articulating_Emotions_ORG">
+    <organization identifier="Articulating_Emotions_ORG">
+      <title>Articulating Emotions</title>
+      <item identifier="Assertiveness_-_Interactive_pre_bite_SCO" isvisible="true" identifierref="__5soZE2YjQM7_RES">
+        <title>Articulating Emotions</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5soZE2YjQM7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5Y39MhKxrQB.js" />
+      <file href="mobile/6VEHrVImPmP_DX1116_DY1116_CX837_CY837.png" />
+      <file href="story_content/5gtxwqXQ9Xe.js" />
+      <file href="mobile/6p4LsYLEqSz_DX506_DY506_CX377_CY94.png" />
+      <file href="mobile/6WPZw4XlOPs_DX506_DY506_CX377_CY94.png" />
+      <file href="story_content/5kobHkR0Pnz_44100_56_0.mp3" />
+      <file href="mobile/5pgNIccss5Y_DX248_DY248_CX186_CY186.png" />
+      <file href="mobile/5VsF3a98ydp_DX202_DY202_CX149_CY151.png" />
+      <file href="mobile/6NpNjtopfsY_DX202_DY202_CX149_CY151.png" />
+      <file href="story_content/627kUVU8Soa.js" />
+      <file href="mobile/6YnI0Mle2Ax_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5j090SdwHeq_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6ZGpITgE7O1_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/61L75zs95zK_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5jwMiJ1yT6x_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6A13Imqw8Ef_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5oUcBgoAt6X_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6YPQBb6f2Fw_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6dxTJVS2lt0_DX110_DY110_CX82_CY67.png" />
+      <file href="mobile/61IfYC9aBQm_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5zbKMsSoUBz_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5maylsfqAoJ_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5XoMvsYDxBO_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6S84Rg7Znja_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6ihx7IrQuNq_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6gOOgqUQpJh_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6AT3TqEghAk_DX116_DY116_CX86_CY70.png" />
+      <file href="mobile/6DtmXcH3Ekw_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5g5Dzt2w0ZJ_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5VAANHmAOWd_DX100_DY100_CX74_CY70.png" />
+      <file href="mobile/6c8itYcYpPp_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6N7JrHdNYZJ_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/64kNjzuedly_DX104_DY104_CX75_CY78.png" />
+      <file href="mobile/62xcNm7UVFP_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6LxBCeZlcoN_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6KQqoTnz33B_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5huavfgWIEK_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5q7OX0rFxvW_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6QEcJnydFPk_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6FK5rSwMcBz_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5ZU7sO6juHP_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5pNoA5geaM9_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6f1XJagDuCe_DX100_DY100_CX75_CY72.png" />
+      <file href="mobile/6bfdLatqjxP_DX102_DY102_CX75_CY76.png" />
+      <file href="mobile/5rVcfUxt3h4_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6nMHewyJVuS_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6LF0fxYf8ue_DX100_DY100_CX75_CY73.png" />
+      <file href="mobile/66vCuPazQLi_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/5bnwvyDWaba_DX100_DY100_CX75_CY69.png" />
+      <file href="mobile/67IN4qQxvXe_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6Y52UAqIGOU_DX100_DY100_CX75_CY75.png" />
+      <file href="mobile/6Y3AQ4NZ61Z_DX100_DY100_CX75_CY75.png" />
+      <file href="story_content/5e7UpG0dRtH.js" />
+      <file href="story_content/5p8SRrUU9Rm.js" />
+      <file href="mobile/6Z4CtjJuXQW_DX1250_DY1250_CX937_CY715.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/64uyqIyF4l1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
